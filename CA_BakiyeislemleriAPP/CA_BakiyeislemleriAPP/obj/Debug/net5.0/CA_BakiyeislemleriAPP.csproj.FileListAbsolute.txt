@@ -1,0 +1,48 @@
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.exe
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.deps.json
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.runtimeconfig.json
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.runtimeconfig.dev.json
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.pdb
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.AssemblyInfo.cs
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\refint\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.pdb
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.genruntimeconfig.cache
+C:\Users\Pc\source\repos\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\ref\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.exe
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.deps.json
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.runtimeconfig.json
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.pdb
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.AssemblyInfo.cs
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\refint\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.pdb
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.genruntimeconfig.cache
+C:\Users\Pc\Desktop\BİLGE ADAM\c#\18.08\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\ref\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.exe
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.deps.json
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.runtimeconfig.json
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\bin\Debug\net5.0\CA_BakiyeislemleriAPP.pdb
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.AssemblyInfo.cs
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\refint\CA_BakiyeislemleriAPP.dll
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.pdb
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\CA_BakiyeislemleriAPP.genruntimeconfig.cache
+C:\Users\Pc\Desktop\odevler\CA_BakiyeislemleriAPP\CA_BakiyeislemleriAPP\obj\Debug\net5.0\ref\CA_BakiyeislemleriAPP.dll
