@@ -1,0 +1,16 @@
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\bin\Debug\net5.0\CA_TahminEt.exe
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\bin\Debug\net5.0\CA_TahminEt.deps.json
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\bin\Debug\net5.0\CA_TahminEt.runtimeconfig.json
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\bin\Debug\net5.0\CA_TahminEt.runtimeconfig.dev.json
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\bin\Debug\net5.0\CA_TahminEt.dll
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\bin\Debug\net5.0\ref\CA_TahminEt.dll
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\bin\Debug\net5.0\CA_TahminEt.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\obj\Debug\net5.0\CA_TahminEt.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\obj\Debug\net5.0\CA_TahminEt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\obj\Debug\net5.0\CA_TahminEt.AssemblyInfoInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\obj\Debug\net5.0\CA_TahminEt.AssemblyInfo.cs
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\obj\Debug\net5.0\CA_TahminEt.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\obj\Debug\net5.0\CA_TahminEt.dll
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\obj\Debug\net5.0\ref\CA_TahminEt.dll
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\obj\Debug\net5.0\CA_TahminEt.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3159\2-C#\17.08\CA_TahminEt\CA_TahminEt\obj\Debug\net5.0\CA_TahminEt.genruntimeconfig.cache
